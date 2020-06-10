@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">e-Liga</string>
+    <string name="inicio">Início</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="tomada">tomada</string>
+    <string name="config">Config</string>
+    <string name="comprar">Comprar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Comprat</string>
+    <string name="cafe">Cafeteira</string>
+    <string name="ar_condicionado">Ar Condicionado</string>
+    <string name="lampada">Lampada</string>
+    <string name="cafeteira">Cafeteira</string>
+
+</resources>
